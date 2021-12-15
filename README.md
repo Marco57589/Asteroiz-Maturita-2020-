@@ -13,16 +13,16 @@ In questa repo troverete gli script presenti nel gioco ma NON:
 
 ---
 
-Requisiti:
-- Android 6 superiore.
-- 500mb di ram.
-- 50mb circa di archiviazione.
+Requirements:
+- Android 6 over.
+- 500mb ram.
+- 50mb game size.
 
-Autorizzazioni:
+Permissions:
 
-- Quest'app richiede SOLAMENTE l'autorizzazione all'archiviazione (utilizzata per salvare i record).
+- android.permission.READ_EXTERNAL_STORAGE
 
-Altro:
+Misc:
 
 - SHA1: 7bf70f432b9f93e4e036966285cbd01caef65074
 - SHA256: e29db4d446ef75a767a556e5394dda6582431c51db30522875b88c9b32eeb16b
