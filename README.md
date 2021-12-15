@@ -24,8 +24,9 @@ Autorizzazioni:
 
 Altro:
 
-SHA1:
-MD5:
+SHA1: 7bf70f432b9f93e4e036966285cbd01caef65074
+SHA256: e29db4d446ef75a767a556e5394dda6582431c51db30522875b88c9b32eeb16b
+MD5: ccc91be71c5466f23b342aaa9701f72e
 
 ---
 
@@ -33,4 +34,3 @@ Note:
 
 - I modelli utilizati sono stati presi dello store ufficiale di Unity.
 - Attualmente il gioco non verrà pubblicato.
-- In futuro verrà caricato il file apk per poter testare il gioco.
