@@ -14,7 +14,7 @@ In questa repo troverete gli script presenti nel gioco ma NON:
 ---
 
 Requirements:
-- Android 6 over.
+- Android 4.4 over (sdk 19).
 - 500mb ram.
 - 50mb game size.
 
