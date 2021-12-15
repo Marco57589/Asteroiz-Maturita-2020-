@@ -33,4 +33,4 @@ Misc:
 Note:
 
 - I modelli utilizati sono stati presi dello store ufficiale di Unity.
-- Attualmente il gioco non verrà pubblicato.
+- Attualmente il gioco é pubblicato su nessuno store.
