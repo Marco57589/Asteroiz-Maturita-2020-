@@ -1,15 +1,15 @@
 # Asteroiz-Maturita-2020
 
-Progetto realizzato per l'esame di Maturità A.S. 2016/2020
+Project realized for the Final high school exam y 2016/2020
 
-Gioco per telefono giocabile anche in realtà virtuale (Cardboard etc) con supporto ai controller.
-Realizzato con Unity 2018.4.12f1.
+Android VR game for Cardboard with bluetooth controller support. 
+Build with Unity 2018.4.12f1.
 
 ---
 
-In questa repo troverete gli script presenti nel gioco ma NON:
-- Il progetto di unity.
-- I Suoni, gli asset e modelli.
+In this repo you will find the scripts but NOT:
+- Unity source project.
+- Sounds, Assets and models.
 
 ---
 
@@ -32,5 +32,4 @@ Misc:
 
 Note:
 
-- I modelli utilizati sono stati presi dello store ufficiale di Unity.
-- Attualmente il gioco é pubblicato su nessuno store.
+- Currently the game is not published in any store.
